@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.thumnail {
+  width: 215px;
+  height: 150px;
+}
+
+.popup-content {
+  background-color: white;
+  width: 750px;
+  height: 460px;
+  border-radius: 16px;
+}
+
+.modal-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.close-button {
+  background-color: transparent;
+  width: 30px;
+  height: 30px;
+  border: none;
+  margin-top: 18px;
+  margin-right: 18px;
+  outline: none;
+  cursor: pointer;
+}
+
+.movie-player-container {
+  margin: 50px;
+  margin-top: 15px;
+}
